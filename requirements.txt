@@ -1,0 +1,6 @@
+fastai==2.7.13
+transformers==4.29.2
+torch==2.1.0
+pandas==1.5.3
+regex==2.2.1
+tk==8.6
